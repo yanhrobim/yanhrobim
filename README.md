@@ -1,4 +1,10 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=header"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Eai!%20Bem%20Vindo(a)%20ao%20Meu%20GitHub!;%20Estou%20Me%20Desenvolvendo%20Como%20Um:;%20Data%20Engineer;&font=Anton&left=true&width=650&height=120&color=000080&vCenter=true&size=45%22" alt=""/>
+
+# Hey! I'm Yan 👋
+
+I'm 17 years old and I have been studying Data Engineering since 2024. My main goal is to earn my first opportunity in the field and become a data professional. You can track the progress in my journey here: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
 
 <!--
 **yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
