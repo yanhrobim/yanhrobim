@@ -37,13 +37,26 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
 
 ---
 
-## 📌 Projetos
+## 📌 Principais Projetos
 
 - **data_engineer_journey** | Portfólio de revisão e prática independente
 - **cdc-with-kaggle** | Simulação de CDC com Python e S3
 - **project-currency-conversion** | Modelagem Star Schema com DBT
 
 ---
+
+<h3 align="center">Meus Contatos 🤝</h3>
+<p align="center">
+  <a href="https://github.com/yanhrobim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="mailto:yanrobim@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https:https://www.instagram.com/_.robim/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
 
 <!--
 **yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
