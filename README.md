@@ -4,7 +4,34 @@
 
 # Eai! Eu sou o Yan 👋
 
-Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal meta é conseguir minha primeira oportunidade na área e me tornar um profissional em dados. Recomecei os estudos do zero depois que percebi que mais precisava da IA do que meu próprio raciocínio. Hoje, documento tudo no: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
+Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal meta é conseguir minha primeira oportunidade na área e me tornar um profissional em dados... Por isso, recomecei os meus estudos do zero quando percebi que utilizava mais IA do que meu próprio raciocínio. Hoje, aprendo e documento tudo no: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
+
+## Sobre mim 💭
+
+Fora do código: 
+- Viciado em juntar tarefas produtivas + café ☕
+- handball para acalmar a mente 🤾‍♂️
+- academia para afogar as mágoas 💪
+- reflexões com meditação para alcançar uma vida plena e uma curiosidade grande por entender como a mente funciona (filosofia, neurociência, psicologia) 🤔
+
+## 🛠️ Stack
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+</a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/dbt.svg" alt="dbt" width="45" height="45"/>
+</a>
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> 
+ </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+ </a>
+ <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="45" height="45"/>
+ </a>
+
 
 <!--
 **yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
