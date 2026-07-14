@@ -47,8 +47,6 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
 
 <h3 align="center">Meus Contatos 🤝</h3>
 <p align="center">
-  <a href="https://github.com/yanhrobim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
   <a href="mailto:yanrobim@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
