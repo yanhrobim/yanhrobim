@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=+Eai!%20Bem%20Vindo(a)%20ao%20Meu%20GitHub!;%20Estou%20Me%20Desenvolvendo%20Como%20Um:;%20Data%20Engineer;&font=Anton&left=true&width=650&height=120&color=FFFFFF&vCenter=true&size=45%22" alt=""/>
 
-# Eai! Eu sou o Yan 👋
+# Hey! Eu sou o Yan 👋
 
 Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal meta é conseguir minha primeira oportunidade na área e me tornar um profissional em dados... Por isso, recomecei os meus estudos do zero quando percebi que utilizava mais IA do que meu próprio raciocínio. Hoje, aprendo e documento tudo no: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
 
