@@ -58,6 +58,8 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
   </a>
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=110&section=footer"/>
+
 <!--
 **yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
