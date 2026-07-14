@@ -6,12 +6,16 @@
 
 Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal meta é conseguir minha primeira oportunidade na área e me tornar um profissional em dados... Por isso, recomecei os meus estudos do zero quando percebi que utilizava mais IA do que meu próprio raciocínio. Hoje, aprendo e documento tudo no: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
 
+---
+
 ## Sobre Mim Fora do Código 💭
 
 - Viciado em juntar tarefas produtivas + café ☕
 - handball para acalmar a mente 🤾‍♂️
 - academia para afogar as mágoas 💪
 - reflexões com meditação para alcançar uma vida plena e uma curiosidade grande por entender como a mente funciona (filosofia, neurociência, psicologia) 🤔
+
+---
 
 ## 🛠️ Stack
 
@@ -31,6 +35,15 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/>
  </a>
 
+---
+
+## 📌 Projetos
+
+- **data_engineer_journey** | Portfólio de revisão e prática independente
+- **cdc-with-kaggle** | Simulação de CDC com Python e S3
+- **project-currency-conversion** | Modelagem Star Schema com DBT
+
+---
 
 <!--
 **yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
