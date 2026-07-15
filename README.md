@@ -32,7 +32,7 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
  </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
  </a>
- <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/>
+ <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/>
  </a>
 
 ---
@@ -47,28 +47,12 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
 
 <h3 align="center">Meus Contatos 🤝</h3>
 <p align="center">
-  </a>
   <a href="mailto:yanrobim@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https:https://www.instagram.com/_.robim/" target="_blank">
+  <a href="https://www.instagram.com/_.robim/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=110&section=footer"/>
-
-<!--
-**yanhrobim/yanhrobim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
