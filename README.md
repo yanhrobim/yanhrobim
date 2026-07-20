@@ -39,9 +39,9 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
 
 ## 📌 Principais Projetos
 
-- **data_engineer_journey** | Portfólio de revisão e prática independente
-- **cdc-with-kaggle** | Simulação de CDC com Python e S3
-- **project-currency-conversion** | Modelagem Star Schema com DBT
+- **[data_engineer_journey](https://github.com/yanhrobim/data_engineer_journey)** | Portfólio de revisão e prática independente
+- **[cdc-with-kaggle](https://github.com/yanhrobim/cdc-with-kaggle)** | Simulação de CDC com Python e S3
+- **[project-currency-conversion](https://github.com/yanhrobim/Project-Currency-Conversion)** | Modelagem Star Schema com DBT
 
 ---
 
