@@ -11,9 +11,9 @@ Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal me
 ## Sobre Mim Fora do Código 💭
 
 - Viciado em juntar tarefas produtivas + café ☕
-- handball para acalmar a mente 🤾‍♂️
-- academia para afogar as mágoas 💪
-- reflexões com meditação para alcançar uma vida plena e uma curiosidade grande por entender como a mente funciona (filosofia, neurociência, psicologia) 🤔
+- Handball para acalmar a mente 🤾‍♂️
+- Academia para afogar as mágoas 💪
+- Reflexões com meditação para alcançar uma vida plena e uma curiosidade grande por entender como a mente funciona (filosofia, neurociência, psicologia) 🤔
 
 ---
 
