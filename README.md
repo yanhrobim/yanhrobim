@@ -4,7 +4,7 @@
 
 # Hey! Eu sou o Yan 👋
 
-Eu tenho 18 anos e estudo engenharia de dados desde dez/2024. Minha principal meta é conseguir minha primeira oportunidade na área e me tornar um profissional em dados... Por isso, recomecei os meus estudos do zero quando percebi que utilizava mais IA do que meu próprio raciocínio. Hoje, aprendo e documento tudo no: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey).
+Tenho 18 anos e estou construindo meu caminho em Engenharia de Dados. Estudo, pratico e documento tudo no meu repositório: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey). O meu principal objetivo é conquistar minha primeira oportunidade na área.
 
 ---
 
