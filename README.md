@@ -4,7 +4,7 @@
 
 # Hey! Eu sou o Yan 👋
 
-Tenho 18 anos e estou construindo meu caminho em Engenharia de Dados. Estudo, pratico e documento tudo no meu repositório: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey). O meu principal objetivo é conquistar minha primeira oportunidade na área.
+Tenho 18 anos e estou construindo meu caminho em Engenharia de Dados. Eu estudo, crio projetos práticos e documento tudo no meu repositório: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey). O meu principal objetivo é conquistar minha primeira oportunidade na área.
 
 ---
 
