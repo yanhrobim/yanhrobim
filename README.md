@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Eai!%20Bem%20Vindo(a)%20ao%20Meu%20GitHub!;%20Estou%20Me%20Desenvolvendo%20Como%20Um:;%20Data%20Engineer;&font=Anton&left=true&width=650&height=120&color=FFFFFF&vCenter=true&size=45%22" alt=""/>
-
 # Hey! Eu sou o Yan 👋
 
 Tenho 18 anos e estou construindo meu caminho em Engenharia de Dados. Eu estudo, crio projetos práticos e documento tudo no meu repositório: [Data Engineer Journey](https://github.com/yanhrobim/data_engineer_journey). O meu principal objetivo é conquistar minha primeira oportunidade na área.
